@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Travel blog with tips, guides, and destination highlights.">
+  <title>ExploreWithMe - Your Travel Companion</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; }
+    header { background: #0077b6; color: white; padding: 1rem 2rem; text-align: center; }
+    nav { background: #023e8a; padding: 0.5rem 2rem; }
+    nav a { color: white; margin-right: 15px; text-decoration: none; }
+    .container { padding: 2rem; }
+    .section { margin-bottom: 2rem; }
+    footer { background: #0077b6; color: white; text-align: center; padding: 1rem; margin-top: 2rem; }
+    .post { background: #f1f1f1; padding: 1rem; margin-bottom: 1rem; border-radius: 5px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>ExploreWithMe</h1>
+  <p>Your Travel Companion for Tips, Guides, and Adventures</p>
+</header>
+
+<nav>
+  <a href="#home">Home</a>
+  <a href="#destinations">Destinations</a>
+  <a href="#guides">Tips & Guides</a>
+  <a href="#gallery">Gallery</a>
+  <a href="#about">About</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<div class="container">
+  <section id="home" class="section">
+    <h2>Welcome to ExploreWithMe!</h2>
+    <p>We bring you the best travel experiences, tips for saving money, and destination guides to help you explore the world smarter.</p>
+  </section>
+
+  <section id="destinations" class="section">
+    <h2>Top Destinations</h2>
+    <div class="post">
+      <h3>Paris, France</h3>
+      <p>Discover the magic of Paris, from the Eiffel Tower to cozy street cafés.</p>
+    </div>
+    <div class="post">
+      <h3>Goa, India</h3>
+      <p>Chill by the beaches, explore local markets, and taste authentic seafood.</p>
+    </div>
+  </section>
+
+  <section id="guides" class="section">
+    <h2>Travel Tips & Guides</h2>
+    <div class="post">
+      <h3>How to Travel on a Budget</h3>
+      <p>Learn how to save money while traveling and get the best deals.</p>
+    </div>
+    <div class="post">
+      <h3>Top 10 Travel Essentials</h3>
+      <p>Pack smarter with our essential items list for any journey.</p>
+    </div>
+  </section>
+
+  <section id="gallery" class="section">
+    <h2>Photo Gallery</h2>
+    <p>Beautiful travel photos coming soon!</p>
+  </section>
+
+  <section id="about" class="section">
+    <h2>About Me</h2>
+    <p>Hi! I'm Nandhu — a travel lover and explorer. I created this blog to share my experiences, tips, and help fellow travelers make the most out of every trip.</p>
+  </section>
+
+  <section id="contact" class="section">
+    <h2>Contact</h2>
+    <p>Email: yourname@example.com</p>
+    <p>Instagram: @yourtravelpage</p>
+  </section>
+</div>
+
+<footer>
+  <p>&copy; 2025 ExploreWithMe. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
+
